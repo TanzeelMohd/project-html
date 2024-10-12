@@ -1,1 +1,1 @@
-https://melodious-elf-516e60.netlify.app/
+https://roadmap.sh/projects/single-page-cv
